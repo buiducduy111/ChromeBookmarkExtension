@@ -1,0 +1,15 @@
+{
+  "name": "bookmarkextension",
+  "version": "1.0.0",
+  "description": "Chrome extension to manage bookmarks by category with custom FontAwesome icons",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^7.1.0"
+  }
+}
